@@ -1,0 +1,15 @@
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\bin\Debug\liliFirstProj.exe.config
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\bin\Debug\liliFirstProj.exe
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\bin\Debug\liliFirstProj.pdb
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.csprojAssemblyReference.cache
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\MainWindow.g.cs
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\App.g.cs
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj_MarkupCompile.cache
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj_MarkupCompile.lref
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\MainWindow.baml
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.g.resources
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.Properties.Resources.resources
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.csproj.GenerateResource.cache
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.csproj.CoreCompileInputs.cache
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.exe
+A:\proj\c#\windows presentation foundation .NET Framework\liliFirstProj\liliFirstProj\obj\Debug\liliFirstProj.pdb
